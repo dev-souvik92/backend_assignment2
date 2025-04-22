@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Spaghetti Carbonara",
+    "author": "Sanjeev Kapoor",
+    "difficulty": "Intermediate",
+    "prepTime": 20,
+    "cookTime": 15,
+    "ingredients": [
+      "200g spaghetti",
+      "100g guanciale or pancetta, diced",
+      "2 large eggs",
+      "50g grated Pecorino Romano cheese",
+      "Salt and black pepper to taste"
+    ],
+    "instructions": [
+      "Cook the spaghetti in boiling salted water until al dente.",
+      "Meanwhile, sauté the guanciale or pancetta until crispy.",
+      "In a bowl, whisk together eggs and grated cheese.",
+      "Drain the spaghetti and immediately toss with the egg mixture and cooked guanciale/pancetta.",
+      "Season with salt and pepper. Serve immediately."
+    ],
+    "imageUrl": "https://example.com/spaghetti_carbonara.jpg"
+  }
+]
